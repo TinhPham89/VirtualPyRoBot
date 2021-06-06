@@ -1,0 +1,1 @@
+print("1.chào hỏi \n2.mạng xã hội")
